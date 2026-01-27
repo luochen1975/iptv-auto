@@ -1,5 +1,5 @@
 注意事项,#genre#
-20260126031354仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+20260127030600仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 猫TV影视,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ➡️白嫖软件⬅️,http://rihou.cc:555/tv/[mv]白嫖软件
@@ -10,60 +10,96 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
+赛事精锦,#genre#
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛27
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛27
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛27
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛27
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛27
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛27
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛27
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛27
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛27
 NBA赛评,#genre#
-01-26⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:00鹈鹕🆚马刺,http://rihou.cc:555/tv/v
-国🔊26咪述述,http://rihou.cc:555/tv/26NBA咪述述
-国🔊26腾述述,http://rihou.cc:555/tv/26NBA腾述述
-08:00猛龙🆚雷霆,http://rihou.cc:555/tv/v
-国🔊26咪旁述,http://rihou.cc:555/tv/26NBA咪旁述
-国🔊26腾旁述,http://rihou.cc:555/tv/26NBA腾旁述
-09:00热火🆚太阳,http://rihou.cc:555/tv/v
-国🔊26咪述旁,http://rihou.cc:555/tv/26NBA咪述旁
-国🔊26腾述旁,http://rihou.cc:555/tv/26NBA腾述旁
-10:00篮网🆚快船,http://rihou.cc:555/tv/v
-国🔊26咪旁旁,http://rihou.cc:555/tv/26NBA咪旁旁
-国🔊26腾旁旁,http://rihou.cc:555/tv/26NBA腾旁旁
 01-27⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08:00魔术🆚骑士,http://rihou.cc:555/tv/v
-国🔊27咪评述,http://rihou.cc:555/tv/27NBA咪评述
-国🔊27腾评述,http://rihou.cc:555/tv/27NBA腾评述
-08:0076人🆚黄蜂,http://rihou.cc:555/tv/v
-国🔊27咪述评,http://rihou.cc:555/tv/27NBA咪述评
-国🔊27腾述评,http://rihou.cc:555/tv/27NBA腾述评
-08:30老鹰🆚步行者,http://rihou.cc:555/tv/v
 国🔊27咪评评,http://rihou.cc:555/tv/27NBA咪评评
 国🔊27腾评评,http://rihou.cc:555/tv/27NBA腾评评
+国🔊27腾雪儿,https://txycdn3.video.qq.com/1392907523.m3u8?time=1769474155&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkeyAQQgIJ-5uopVNW-V2RI8bXEDZLzp4E7dLjYO3Dp2leVeH1jeEIKBiTPNNsokRSULuXN9U6QBcNS0acpRFe5gNT0SUu0NfTeX5Q4iEpD3Wgzv9Co9HGezAL6xZ6CLgAq3dzPqZWcgf2l8TgCmUUJFSJwE2WChEuPd00tjZ7-LB4Qj2bxv-KzOjcktWnDvfPOzdv9n5i45k0qjNQiX4OC6xV8toN-Ykhtri2I7juTRjOlQit13cXhOpklV08PbCzyCkpdtEINmdI0qUlJs8dzxTxlIJfJv-hA3MEDJuVesjluV70awSMLpF5EN2cXbwkcAVDZvwXYAQbFbMwffLqog733TmVJL3j3NBxu0gzXvErNczSj5kuYfk2k1gFTQVNIosiBe30unv7tA0JGc6hXyBAUBMvsB9oUkZRNLQ4hOqZsPhzB3RHFHZHtNu6UhRNOE-Dmya58i1J7FhVUqTXa0Ot1hmyjOEbsgT9znZFbhzNIYHJIEY9UwPwlLsGduq66jUET6zbppxpsmXYdwxl0Pywa4isbGsBqShA0jbB9HOKG&drmtype=0
 09:00开拓者🆚凯尔特人,http://rihou.cc:555/tv/v
 国🔊27咪述述,http://rihou.cc:555/tv/27NBA咪述述
 国🔊27腾述述,http://rihou.cc:555/tv/27NBA腾述述
+国🔊27腾祥宇,https://txycdn1.video.qq.com/1777523723.m3u8?time=1769475708&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkeyAQQgIN3lxA-6plqC6xtHzWeiq2uu9mb1L2bLSOXgtKI1cDPKEBG2jWJkmSGDj3uTcFw3l1ABcH2eyEpDJZZJ6wmcPx4m51TLIF7drJEk2F0wF0VZLUxaAATe1BmKfZVvjsyNpj7SOvDNu0gdPrTiFxse8j6Ffka-3TFVwdHZWj-FQ1rGHWxF9CxZdoh6PJLHKUQHyjp8B1TnZXFK9kJixhK2kp1GqHdA1zv6L1iAGBXIXDcAFaAXWyF3W7kzDwiAK5-3WbWSnHu1Dqd7vM8jmuvCLCpztfIAEXnWtFYqRU6gPsFm17VE9cyskyIEilezTESZPkcZBOLwYMK5PwwXGhII8r8ClKku85Qas0hw47xMIOAZ9glcKwPzelmXpc9tUa6ODCWvTiW1PLUGYiE5a8oENxbGh7SMPcNSZ-WxgL6qBUIkVV2WFe0WCX2qa18ZGNXGKCycQy2CkxCvoqI-11PX3F2PfhJdymSJ9Kqb6HMz-qB9E1ckyETL9N22clQSsb3fKn7SAQ9F9OlZv6C6nq8WfyaRh8KFYVCQbJiY32F3G&drmtype=0
 09:00湖人🆚公牛,http://rihou.cc:555/tv/v
 国🔊27咪旁述,http://rihou.cc:555/tv/27NBA咪旁述
 国🔊27腾旁述,http://rihou.cc:555/tv/27NBA腾旁述
+国🔊27腾柯凡,https://txycdn4.video.qq.com/1777558323.m3u8?time=1769475609&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkeyAQQgIJoZMv3H8nbpwCICu9QtpgjUEX5vozmuXDYzUErsKaYIEGzDLmtRYr9e0evLgBC8nrkBcHfAslib3vNhclSIADEqugFpsVIDq5ooB-cg1hzYhOgriXXGTvKGlAEEOazixGd00NVcZUbov9cH4qnfzM-6eYAxy5Yf9p6QGaoBsRda5fwADOcNwV-XzMz02RA1qosbvOKc8nJJZENEn7kRFNmq98Z4g7ScQHNqz72KQMlUY5ShC2BQlecVS6PPGNN2oXZQia96X4m9Cmip8Q2hrYNbAqhB5OnsG3iKhkrXMsgkuCKVTkktmnRwsS1W8pbdGg53WbP-rtV0vg8bA5LuFiZFNZvKzWTeSkjFSL4-xEx8D88e5bgkSUY0IeHEIjWaagpvsMgFT0CXuLhc02opkxxFlTYL3jxY7EImLeYMFBTZMzFycllmY8u9JjrHdxfRe-7dK80llGu20QpYbGVfwGszcJI6HkAANQdcSXJg1CYd6pOLcMbVUtSpwLY58I-YotMltSWWs6PgEMp-SAIjTXB4hWisIGYxDyqwc&drmtype=0
 09:00灰熊🆚火箭,http://rihou.cc:555/tv/v
 国🔊27咪述旁,http://rihou.cc:555/tv/27NBA咪述旁
 国🔊27腾述旁,http://rihou.cc:555/tv/27NBA腾述旁
+国🔊27腾段冉,https://txycdn1.video.qq.com/1777558423.m3u8?time=1769475663&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkeyAQQgIChokUefOMqHLxIYvaaeNcI1m-OtllalaZ1fd71WVEFbhHSlxxutWe6KW0LzxtkBcDrCjNeoophWtptnj-rhcxa2m4tqOSTzIDbjapeLb079Nb0qCHAcceb832gOKrXLSNx6Ud7qxSzXmCnCHyAXzLu3BEz3Fc5IzsLspLFnhlpq2ZyEC7VG0wcuM5t872OeojnKnuxqIWg8sovCmjKXjYqtdXpiSc8rYzQw-LZvqnMD2IdIjZCErt-8dycSCN1hCj1KlDuZ6EG8rszs5Gv6YOolksOwPpRF8VwHEa0RnmSJQxbaQ6SrJqlThgc0sCJZtfe430XS00mfaJuWUv7o-nq3DWiFRcxIrDQActZUS3Dg0ts4JcmgDuNEleZm7XRRYiBYfh2BTwKbWhYXFkBW8cvJ5UH6zXimhq4ZZDEF-mMRnAmnFj6z7-F11JMes2SEw4OoYZcpVfMM8cAptpTGqkcmC6lJZ7pnQ3u3ihpp9hZZuCux4uNmDsmki0v1kiYKx4BWTvoj7RXgnWM-p1RxnmUxmMeKNIoG7qWdR4lp&drmtype=0
 10:30勇士🆚木狼,http://rihou.cc:555/tv/v
 国🔊27咪旁旁,http://rihou.cc:555/tv/27NBA咪旁旁
 国🔊27腾旁旁,http://rihou.cc:555/tv/27NBA腾旁旁
+国🔊27腾殳海,https://txycdn7.video.qq.com/1392939223.m3u8?time=1769479866&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkeyAQQgIFYB56ijpbk1rvACtv7kmwvspWzCHHlLkSpEF7IoLwOwEFOVfP5okxDL2MwU9iuX5UgBcAbgkULOcSLlnq0mvMK407R6yEMF97D7A17bGpKzK4Gx1mxVM4hFplIT272bnn1MSxPWj7t1lHoxPtS8oG80yAerHP1kWMz9OXDj1W2mhrk1QnPGrLRuqETWiJGeu7CNyJQh1b5H9a9h7sPV4-lSpr1Afu5upxQ7jAnEAaEWmUP72wdTh-EAbrfQ8I7NlmCDBg5sEjBtomoThFlZbKWllMG4FgMjVz-swaITbIeY-Q95WEtB7tfCtGtt2ZkF5MHpd2twaf35c7U8YRaP57Ffix2qOcny5HdVGPAdYd4cvVJPKP3SwQPZvP8qhaTF3Qe7wCilmVKwQR2Ahdtf22OpkGL7149qRzUGdIGSV2-EejG9aeoH-qHdMmCxhpXYaCKV07Ktew5TU1WdhJ2Q1Aq-esp9oL9HWV08fDaROzoDRqzff6K2-vCWDG3LFefqmG8qheWZwFpwr5dYGKKLsKkgLbygRI3b9wQjU0oXtPS&drmtype=0
+01-28⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+08:00奇才🆚开拓者,http://rihou.cc:555/tv/v
+国🔊28咪评述,http://rihou.cc:555/tv/28NBA咪评述
+国🔊28腾评述,http://rihou.cc:555/tv/28NBA腾评述
+08:30国王🆚尼克斯,http://rihou.cc:555/tv/v
+国🔊28咪述评,http://rihou.cc:555/tv/28NBA咪述评
+国🔊28腾述评,http://rihou.cc:555/tv/28NBA腾述评
+09:00雄鹿🆚76人,http://rihou.cc:555/tv/v
+国🔊28咪评评,http://rihou.cc:555/tv/28NBA咪评评
+国🔊28腾评评,http://rihou.cc:555/tv/28NBA腾评评
+09:00雷霆🆚鹈鹕,http://rihou.cc:555/tv/v
+国🔊28咪述述,http://rihou.cc:555/tv/28NBA咪述述
+国🔊28腾述述,http://rihou.cc:555/tv/28NBA腾述述
+10:00太阳🆚篮网,http://rihou.cc:555/tv/v
+国🔊28咪旁述,http://rihou.cc:555/tv/28NBA咪旁述
+国🔊28腾旁述,http://rihou.cc:555/tv/28NBA腾旁述
+10:00掘金🆚活塞,http://rihou.cc:555/tv/v
+国🔊28咪述旁,http://rihou.cc:555/tv/28NBA咪述旁
+国🔊28腾述旁,http://rihou.cc:555/tv/28NBA腾述旁
+11:00爵士🆚快船,http://rihou.cc:555/tv/v
+国🔊28咪旁旁,http://rihou.cc:555/tv/28NBA咪旁旁
+国🔊28腾旁旁,http://rihou.cc:555/tv/28NBA腾旁旁
+01-29⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+08:00公牛🆚步行者,http://rihou.cc:555/tv/v
+国🔊29咪评述,http://rihou.cc:555/tv/29NBA咪评述
+国🔊29腾评述,http://rihou.cc:555/tv/29NBA腾评述
+08:00湖人🆚骑士,http://rihou.cc:555/tv/v
+国🔊29咪述评,http://rihou.cc:555/tv/29NBA咪述评
+国🔊29腾述评,http://rihou.cc:555/tv/29NBA腾述评
+08:30魔术🆚热火,http://rihou.cc:555/tv/v
+国🔊29咪评评,http://rihou.cc:555/tv/29NBA咪评评
+国🔊29腾评评,http://rihou.cc:555/tv/29NBA腾评评
+08:30猛龙🆚尼克斯,http://rihou.cc:555/tv/v
+国🔊29咪述述,http://rihou.cc:555/tv/29NBA咪述述
+国🔊29腾述述,http://rihou.cc:555/tv/29NBA腾述述
+08:30老鹰🆚凯尔特人,http://rihou.cc:555/tv/v
+国🔊29咪旁述,http://rihou.cc:555/tv/29NBA咪旁述
+国🔊29腾旁述,http://rihou.cc:555/tv/29NBA腾旁述
+09:00黄蜂🆚灰熊,http://rihou.cc:555/tv/v
+国🔊29咪述旁,http://rihou.cc:555/tv/29NBA咪述旁
+国🔊29腾述旁,http://rihou.cc:555/tv/29NBA腾述旁
+09:30木狼🆚独行侠,http://rihou.cc:555/tv/v
+国🔊29咪旁旁,http://rihou.cc:555/tv/29NBA咪旁旁
+国🔊29腾旁旁,http://rihou.cc:555/tv/29NBA腾旁旁
+10:00勇士🆚爵士,http://rihou.cc:555/tv/v
+国🔊29咪旁评,http://rihou.cc:555/tv/29NBA咪旁评
+国🔊29腾旁评,http://rihou.cc:555/tv/29NBA腾旁评
+10:30马刺🆚火箭,http://rihou.cc:555/tv/v
+国🔊29咪评旁,http://rihou.cc:555/tv/29NBA咪评旁
+国🔊29腾评旁,http://rihou.cc:555/tv/29NBA腾评旁
 CBA赛评,#genre#
-01-26⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35广东阳光🆚天津行者,http://rihou.cc:555/tv/v
-粤'🔊丁伟杰述,http://rihou.cc:555/tv/26CBA丁伟杰
-粤'🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[Cg]广东体育
-国🔊26抖评述,http://rihou.cc:555/tv/26CBA抖评述
-19:35北京控股🆚长白山恩,http://rihou.cc:555/tv/v
-国🔊26抖述评,http://rihou.cc:555/tv/26CBA抖述评
-19:35山西汾酒🆚北京北汽,http://rihou.cc:555/tv/v
-国🔊26抖评评,http://rihou.cc:555/tv/26CBA抖评评
 01-27⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广州朗肽🆚上海久事,http://rihou.cc:555/tv/v
-粤'🔊丁伟杰述,http://rihou.cc:555/tv/27CBA丁伟杰
-粤'🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[Cg]广东体育
+粤🔊丁伟杰述,http://rihou.cc:555/tv/27CBA丁伟杰
+粤🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
+粤🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
+粤🔊广东体育,http://rihou.cc:555/tv/[Cg]广东体育
 国🔊27抖评述,http://rihou.cc:555/tv/27CBA抖评述
 19:35南京天蓝🆚新疆伊力,http://rihou.cc:555/tv/v
 国🔊27抖述评,http://rihou.cc:555/tv/27CBA抖述评
@@ -77,6 +113,15 @@ CBA赛评,#genre#
 国🔊27抖述旁,http://rihou.cc:555/tv/27CBA抖述旁
 19:35浙江稠州🆚江苏肯帝,http://rihou.cc:555/tv/v
 国🔊27抖旁旁,http://rihou.cc:555/tv/27CBA抖旁旁
+01-28⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:35广东阳光🆚长白山恩,http://rihou.cc:555/tv/v
+粤'🔊丁伟杰述,http://rihou.cc:555/tv/27CBA丁伟杰
+粤'🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
+粤'🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
+粤'🔊广东体育,http://rihou.cc:555/tv/[Cg]广东体育
+国🔊28抖评述,http://rihou.cc:555/tv/28CBA抖评述
+19:35天津行者🆚北京北汽,http://rihou.cc:555/tv/v
+国🔊28抖述评,http://rihou.cc:555/tv/28CBA抖述评
 WCBA赛,#genre#
 01-27⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30山西竹叶青酒🆚东莞新彤盛,http://rihou.cc:555/tv/v
@@ -89,75 +134,55 @@ WCBA赛,#genre#
 国🔊27咪述述,http://rihou.cc:555/tv/27WCBA咪述述
 19:30山东赤水河酒🆚浙江稠州银行,http://rihou.cc:555/tv/v
 国🔊27咪旁述,http://rihou.cc:555/tv/27WCBA咪旁述
-意甲赛评,#genre#
-01-27⬇️意甲第22轮⬇️⚽📡,http://rihou.cc:555/tv/t
-03:45维罗纳🆚乌甸尼斯,http://rihou.cc:555/tv/v
-国🔊咪咕评评,http://rihou.cc:555/tv/27意咪咕评评
-英超粤评,#genre#
-01-27⬇️英超第23轮⬇️⚽📡,http://rihou.cc:555/tv/t
-04:00爱华顿🆚列斯联,http://rihou.cc:555/tv/v
-国🔊咪咕评述,http://rihou.cc:555/tv/27英咪咕评述
-西甲赛评,#genre#
-01-27⬇️西甲第21轮⬇️⚽📡,http://rihou.cc:555/tv/t
-04:00赫罗纳🆚加泰,http://rihou.cc:555/tv/v
-国🔊咪咕评评,http://rihou.cc:555/tv/27西咪咕评评
-赛事精锦,#genre#
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛26
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛26
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛26
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛26
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛26
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛26
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛26
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛26
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛26
+01-28⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:30石家庄英励🆚北京首钢园,http://rihou.cc:555/tv/v
+国🔊28咪评述,http://rihou.cc:555/tv/28WCBA咪评述
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
-赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=2189c71d2189c71d2189c71d2189c71d
-赛事睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=2189c71e2189c71e2189c71e2189c71e
-赛事睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=2189c71a2189c71a2189c71a2189c71a
-赛事睛彩广场,https://msj.188766.xyz/play?id=3000000020000011523&token=2189c7182189c7182189c7182189c718
-军事国防央七,https://msj.188766.xyz/play?id=3000000010000011518&token=8ca5143d8ca5143d8ca5143d8ca5143d
-军事国防央七,https://msj.188766.xyz/play?id=3000000020000011522&token=2189c7172189c7172189c7172189c717
-赛事咪咕播01,https://msj.188766.xyz/play?id=3000000001000005308&token=ebfd84f5ebfd84f5ebfd84f5ebfd84f5
-赛事咪咕播02,https://msj.188766.xyz/play?id=3000000001000005969&token=ebfd9c36ebfd9c36ebfd9c36ebfd9c36
-赛事咪咕播03,https://msj.188766.xyz/play?id=3000000001000007218&token=ebfe6a11ebfe6a11ebfe6a11ebfe6a11
-赛事咪咕播04,https://msj.188766.xyz/play?id=3000000001000008001&token=ebfed6c8ebfed6c8ebfed6c8ebfed6c8
-赛事咪咕播05,https://msj.188766.xyz/play?id=3000000001000008176&token=ebfedb67ebfedb67ebfedb67ebfedb67
-赛事咪咕播06,https://msj.188766.xyz/play?id=3000000001000008379&token=ebfee2ecebfee2ecebfee2ecebfee2ec
-赛事咪咕播07,https://msj.188766.xyz/play?id=3000000001000010129&token=ec094f58ec094f58ec094f58ec094f58
-赛事咪咕播08,https://msj.188766.xyz/play?id=3000000001000010948&token=ec096d9dec096d9dec096d9dec096d9d
-赛事咪咕播09,https://msj.188766.xyz/play?id=3000000001000028638&token=ec1b1cb4ec1b1cb4ec1b1cb4ec1b1cb4
-赛事咪咕播10,https://msj.188766.xyz/play?id=3000000001000031494&token=ec25fed0ec25fed0ec25fed0ec25fed0
-赛事咪咕播11,https://msj.188766.xyz/play?id=3000000010000000097&token=8c96768f8c96768f8c96768f8c96768f
-赛事咪咕播12,https://msj.188766.xyz/play?id=3000000010000002019&token=8c975e578c975e578c975e578c975e57
-赛事咪咕播13,https://msj.188766.xyz/play?id=3000000010000002809&token=8c977c408c977c408c977c408c977c40
-赛事咪咕播14,https://msj.188766.xyz/play?id=3000000010000003915&token=8c97f47b8c97f47b8c97f47b8c97f47b
-赛事咪咕播15,https://msj.188766.xyz/play?id=3000000010000004193&token=8c984bc88c984bc88c984bc88c984bc8
-赛事咪咕播16,https://msj.188766.xyz/play?id=3000000010000005837&token=8c98d9b88c98d9b88c98d9b88c98d9b8
-赛事咪咕播17,https://msj.188766.xyz/play?id=3000000010000006077&token=8c99308b8c99308b8c99308b8c99308b
-赛事咪咕播18,https://msj.188766.xyz/play?id=3000000010000006658&token=8c9946d48c9946d48c9946d48c9946d4
-赛事咪咕播19,https://msj.188766.xyz/play?id=3000000010000009788&token=8c9aa80f8c9aa80f8c9aa80f8c9aa80f
-赛事咪咕播20,https://msj.188766.xyz/play?id=3000000010000010833&token=8ca4ab5a8ca4ab5a8ca4ab5a8ca4ab5a
-赛事咪咕播21,https://msj.188766.xyz/play?id=3000000010000011297&token=8ca509f18ca509f18ca509f18ca509f1
-赛事咪咕播22,https://msj.188766.xyz/play?id=3000000010000012558&token=8ca589188ca589188ca589188ca58918
-赛事咪咕播23,https://msj.188766.xyz/play?id=3000000010000012616&token=8ca58c5b8ca58c5b8ca58c5b8ca58c5b
-赛事咪咕播24,https://msj.188766.xyz/play?id=3000000010000015470&token=8ca6e2aa8ca6e2aa8ca6e2aa8ca6e2aa
-赛事咪咕播25,https://msj.188766.xyz/play?id=3000000010000015560&token=8ca6e64c8ca6e64c8ca6e64c8ca6e64c
-赛事咪咕播26,https://msj.188766.xyz/play?id=3000000010000017678&token=8ca7d2f28ca7d2f28ca7d2f28ca7d2f2
-赛事咪咕播27,https://msj.188766.xyz/play?id=3000000010000019839&token=8ca8c2b78ca8c2b78ca8c2b78ca8c2b7
-赛事咪咕播28,https://msj.188766.xyz/play?id=3000000010000021904&token=8cb33a9f8cb33a9f8cb33a9f8cb33a9f
-赛事咪咕播29,https://msj.188766.xyz/play?id=3000000010000023434&token=8cb410f58cb410f58cb410f58cb410f5
-赛事咪咕播30,https://msj.188766.xyz/play?id=3000000010000025380&token=8cb4f6898cb4f6898cb4f6898cb4f689
-赛事咪咕播31,https://msj.188766.xyz/play?id=3000000010000027691&token=8cb5eaaa8cb5eaaa8cb5eaaa8cb5eaaa
-赛事咪咕播32,https://msj.188766.xyz/play?id=3000000010000031669&token=8cc1479c8cc1479c8cc1479c8cc1479c
-赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=2189c6fe2189c6fe2189c6fe2189c6fe
-赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=2189c6ff2189c6ff2189c6ff2189c6ff
-赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=2189c7152189c7152189c7152189c715
-赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=2189c7162189c7162189c7162189c716
-赛事咪咕播4k,https://msj.188766.xyz/play?id=3000000010000005180&token=8c98c0058c98c0058c98c0058c98c005
-赛事至臻视界,https://msj.188766.xyz/play?id=3000000010000015686&token=8ca6ea518ca6ea518ca6ea518ca6ea51
+赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=7c8cace07c8cace07c8cace07c8cace0
+赛事睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=7c8cace17c8cace17c8cace17c8cace1
+赛事睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=7c8cacdd7c8cacdd7c8cacdd7c8cacdd
+赛事睛彩广场,https://msj.188766.xyz/play?id=3000000020000011523&token=7c8cacdb7c8cacdb7c8cacdb7c8cacdb
+军事国防央七,https://msj.188766.xyz/play?id=3000000010000011518&token=e7a7fa00e7a7fa00e7a7fa00e7a7fa00
+军事国防央七,https://msj.188766.xyz/play?id=3000000020000011522&token=7c8cacda7c8cacda7c8cacda7c8cacda
+赛事咪咕播01,https://msj.188766.xyz/play?id=3000000001000005308&token=47006ab847006ab847006ab847006ab8
+赛事咪咕播02,https://msj.188766.xyz/play?id=3000000001000005969&token=470081f9470081f9470081f9470081f9
+赛事咪咕播03,https://msj.188766.xyz/play?id=3000000001000007218&token=47014fd447014fd447014fd447014fd4
+赛事咪咕播04,https://msj.188766.xyz/play?id=3000000001000008001&token=4701bc8b4701bc8b4701bc8b4701bc8b
+赛事咪咕播05,https://msj.188766.xyz/play?id=3000000001000008176&token=4701c12a4701c12a4701c12a4701c12a
+赛事咪咕播06,https://msj.188766.xyz/play?id=3000000001000008379&token=4701c8af4701c8af4701c8af4701c8af
+赛事咪咕播07,https://msj.188766.xyz/play?id=3000000001000010129&token=470c351b470c351b470c351b470c351b
+赛事咪咕播08,https://msj.188766.xyz/play?id=3000000001000010948&token=470c5360470c5360470c5360470c5360
+赛事咪咕播09,https://msj.188766.xyz/play?id=3000000001000028638&token=471e0277471e0277471e0277471e0277
+赛事咪咕播10,https://msj.188766.xyz/play?id=3000000001000031494&token=4728e4934728e4934728e4934728e493
+赛事咪咕播11,https://msj.188766.xyz/play?id=3000000010000000097&token=e7995c52e7995c52e7995c52e7995c52
+赛事咪咕播12,https://msj.188766.xyz/play?id=3000000010000002019&token=e79a441ae79a441ae79a441ae79a441a
+赛事咪咕播13,https://msj.188766.xyz/play?id=3000000010000002809&token=e79a6203e79a6203e79a6203e79a6203
+赛事咪咕播14,https://msj.188766.xyz/play?id=3000000010000003915&token=e79ada3ee79ada3ee79ada3ee79ada3e
+赛事咪咕播15,https://msj.188766.xyz/play?id=3000000010000004193&token=e79b318be79b318be79b318be79b318b
+赛事咪咕播16,https://msj.188766.xyz/play?id=3000000010000005837&token=e79bbf7be79bbf7be79bbf7be79bbf7b
+赛事咪咕播17,https://msj.188766.xyz/play?id=3000000010000006077&token=e79c164ee79c164ee79c164ee79c164e
+赛事咪咕播18,https://msj.188766.xyz/play?id=3000000010000006658&token=e79c2c97e79c2c97e79c2c97e79c2c97
+赛事咪咕播19,https://msj.188766.xyz/play?id=3000000010000009788&token=e79d8dd2e79d8dd2e79d8dd2e79d8dd2
+赛事咪咕播20,https://msj.188766.xyz/play?id=3000000010000010833&token=e7a7911de7a7911de7a7911de7a7911d
+赛事咪咕播21,https://msj.188766.xyz/play?id=3000000010000011297&token=e7a7efb4e7a7efb4e7a7efb4e7a7efb4
+赛事咪咕播22,https://msj.188766.xyz/play?id=3000000010000012558&token=e7a86edbe7a86edbe7a86edbe7a86edb
+赛事咪咕播23,https://msj.188766.xyz/play?id=3000000010000012616&token=e7a8721ee7a8721ee7a8721ee7a8721e
+赛事咪咕播24,https://msj.188766.xyz/play?id=3000000010000015470&token=e7a9c86de7a9c86de7a9c86de7a9c86d
+赛事咪咕播25,https://msj.188766.xyz/play?id=3000000010000015560&token=e7a9cc0fe7a9cc0fe7a9cc0fe7a9cc0f
+赛事咪咕播26,https://msj.188766.xyz/play?id=3000000010000017678&token=e7aab8b5e7aab8b5e7aab8b5e7aab8b5
+赛事咪咕播27,https://msj.188766.xyz/play?id=3000000010000019839&token=e7aba87ae7aba87ae7aba87ae7aba87a
+赛事咪咕播28,https://msj.188766.xyz/play?id=3000000010000021904&token=e7b62062e7b62062e7b62062e7b62062
+赛事咪咕播29,https://msj.188766.xyz/play?id=3000000010000023434&token=e7b6f6b8e7b6f6b8e7b6f6b8e7b6f6b8
+赛事咪咕播30,https://msj.188766.xyz/play?id=3000000010000025380&token=e7b7dc4ce7b7dc4ce7b7dc4ce7b7dc4c
+赛事咪咕播31,https://msj.188766.xyz/play?id=3000000010000027691&token=e7b8d06de7b8d06de7b8d06de7b8d06d
+赛事咪咕播32,https://msj.188766.xyz/play?id=3000000010000031669&token=e7c42d5fe7c42d5fe7c42d5fe7c42d5f
+赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=7c8cacc17c8cacc17c8cacc17c8cacc1
+赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=7c8cacc27c8cacc27c8cacc27c8cacc2
+赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=7c8cacd87c8cacd87c8cacd87c8cacd8
+赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=7c8cacd97c8cacd97c8cacd97c8cacd9
+赛事咪咕播4k,https://msj.188766.xyz/play?id=3000000010000005180&token=e79ba5c8e79ba5c8e79ba5c8e79ba5c8
+赛事至臻视界,https://msj.188766.xyz/play?id=3000000010000015686&token=e7a9d014e7a9d014e7a9d014e7a9d014
 赛事睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技
 赛事睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技|
 赛事睛彩篮球,http://rihou.cc:555/tv/[mg]睛彩篮球
@@ -689,7 +714,7 @@ WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 网页音乐,#genre#
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖26
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖27
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
@@ -841,8 +866,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 太平年第06集,http://cjx.999315.xyz/yzzy/20260124/1238347e03d48/index.m3u8
 太平年第07集,http://cjx.999315.xyz/yzzy/20260125/124566a9edcb7/index.m3u8
 太平年第08集,http://cjx.999315.xyz/yzzy/20260125/12457842efe84/index.m3u8
-太平年第09集
-太平年第10集
+太平年第09集,http://cjx.999315.xyz/yzzy/20260126/615292ae5cfe/index.m3u8
+太平年第10集,http://cjx.999315.xyz/yzzy/20260126/6153a4d5fad8/index.m3u8
 太平年第11集
 太平年第12集
 太平年第13集
@@ -893,7 +918,7 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 突然的喜欢09,http://cjx.999315.xyz/yzzy/20260124/1547253a738be/index.m3u8
 突然的喜欢10,http://cjx.999315.xyz/yzzy/20260125/61066933b564/index.m3u8
 突然的喜欢11,http://cjx.999315.xyz/yzzy/20260125/61105460b9ea/index.m3u8
-突然的喜欢12
+突然的喜欢12,http://cjx.999315.xyz/yzzy/20260126/61543bf07985/index.m3u8
 突然的喜欢13
 突然的喜欢14
 突然的喜欢15
@@ -1485,6 +1510,145 @@ SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 靖洋戏剧频晴,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
 中视菁采频晴,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 八大优频道晴,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
+央卫频玛,#genre#
+CCTV-01频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv1%26token%3D8522
+CCTV-02频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv2%26token%3D8522
+CCTV-03频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv3%26token%3D8522
+CCTV-04频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCctv4%26token%3D8522
+CCTV-04频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv4%26token%3D8522
+CCTV-05频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv5%26token%3D8522
+CCTV 5+频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv5plus%26token%3D8522
+CCTV-06频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv6%26token%3D8522
+CCTV-07频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv7%26token%3D8522
+CCTV-08频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv8hd%26token%3D8522
+CCTV-09频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv9hd%26token%3D8522
+CCTV-10频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv10hd%26token%3D8522
+CCTV-11频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv11%26token%3D8522
+CCTV-12频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv12%26token%3D8522
+CCTV-13频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv13%26token%3D8522
+CCTV-14频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv14%26token%3D8522
+CCTV-15频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcctv15%26token%3D8522
+CGTN英频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCGTN%26token%3D8522
+北京卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbeijing%26token%3D8522
+深圳卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dshenzhen%26token%3D8522
+广西卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dguangxi%26token%3D8522
+湖北卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhubei%26token%3D8522
+东南卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfujian%26token%3D8522
+广东珠江频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dzhujiang%26token%3D8522
+玛区频玛,#genre#
+凤凰卫视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dphoenixtvhd%26token%3D8522
+凤凰资讯频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dphoenixinfohd%26token%3D8522
+凤凰香港频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhkphoenixtwn%26token%3D8522
+中天新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctinews%26token%3D8522
+有线新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhoycaijingtwn%26token%3D8522
+无线新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dinewstwn%26token%3D8522
+无线翡翠频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Djadetwn%26token%3D8522
+无线翡翠频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DJadexue%26token%3D8522
+无线华丽频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWlt%26token%3D8522
+无线华丽频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbjade%26token%3D8522
+无线明珠频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dpearltwn%26token%3D8522
+无线娱乐频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbentertainment%26token%3D8522
+千禧经典频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbclassic%26token%3D8522
+VIUTV英频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dviusixtwn%26token%3D8522
+RTHK-31频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Drhk31twn%26token%3D8522
+RTHK-32频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Drhk32twn%26token%3D8522
+美亚电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmeiyamovietwn%26token%3D8522
+天映频道闽玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCelestial%26token%3D8522
+天映频道闽玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctv18twn%26token%3D8522
+龙华电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dxingweimovie%26token%3D8522
+龙祥电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlungxiangtimetwn%26token%3D8522
+纬来电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandmovie%26token%3D8522
+Astr爱奇频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DQiyi%26token%3D8522
+AstrQJ国频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DQuanjia%26token%3D8522
+Astr欢喜频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHuahee%26token%3D8522
+闽南频玛,#genre#
+中天新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctinews%26token%3D8522
+东森新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvnews%26token%3D8522
+寰宇新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhuanyuxinwentwn%26token%3D8522
+tvbs新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtvbsn%26token%3D8522
+年代新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dniandainewstwn%26token%3D8522
+民视新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dftvnewtaiwan%26token%3D8522
+中视新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dzhongshinewstwn%26token%3D8522
+台视新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dttvnewstwn%26token%3D8522
+非凡新闻频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfeifannewstwn%26token%3D8522
+民视闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dftvhdtaiwan%26token%3D8522
+中视闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dzhongshihdtwn%26token%3D8522
+华视闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctshdtwn%26token%3D8522
+台视闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dttvtaiwan%26token%3D8522
+tvbs闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtvbs%26token%3D8522
+tvbs欢乐频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtvbshuanletwn%26token%3D8522
+民视第一频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlunghuajingdiantwn%26token%3D8522
+民视台湾频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dftvtaiwantwn%26token%3D8522
+中视经典频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dzhongshitwn%26token%3D8522
+公视台语频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctv2twn%26token%3D8522
+台视综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dttvzhonghe%26token%3D8522
+中天娱乐频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctient%26token%3D8522
+中天综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctizhonghe%26token%3D8522
+中天亚洲频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dctiasiatwn%26token%3D8522
+八大第一频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbadafirst%26token%3D8522
+八大综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbadazhonghe%26token%3D8522
+八大戏剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbadadrama%26token%3D8522
+八大娱乐频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbadaentertain%26token%3D8522
+东森综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvzhonghe%26token%3D8522
+东森戏剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvdrama%26token%3D8522
+东森洋片频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvwestern%26token%3D8522
+东森电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvmovie%26token%3D8522
+东森幼幼频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dyoyotwn%26token%3D8522
+东森超视频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvsuper%26token%3D8522
+东森财经频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dettvcaijingtwn%26token%3D8522
+寰宇财经频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhuanyutaiwantwn%26token%3D8522
+华艺综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dweishichinesetwn%26token%3D8522
+阿里郎综频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Darirangtwn%26token%3D8522
+AXN电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Daxntwn%26token%3D8522
+CInemax频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcinemaxtwn%26token%3D8522
+HBo高清频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhbohdtwn%26token%3D8522
+HBo家庭频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfyitwn%26token%3D8522
+好莱电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhollywoodmoviestwn%26token%3D8522
+龙祥电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlungxiangtimetwn%26token%3D8522
+龙华经典频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlunghuajingdiantwn%26token%3D8522
+龙华戏剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlunghuaxijutwn%26token%3D8522
+龙华电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dxingweimovie%26token%3D8522
+龙华偶像频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlunghuaidoltwn%26token%3D8522
+龙华洋片频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dlunghuawesterntwn%26token%3D8522
+纬来电影频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandmovie%26token%3D8522
+纬来日本频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandjapan%26token%3D8522
+纬来体育频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandsport%26token%3D8522
+纬来综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandzonghe%26token%3D8522
+纬来育乐频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandyule%26token%3D8522
+纬来精彩频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvideolandspecialtwn%26token%3D8522
+靖天国际频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Djingtianintltwn%26token%3D8522
+靖天卡通频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Djingtiancartoontwn%26token%3D8522
+大爱壹台频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddaaitwn%26token%3D8522
+大爱贰台频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddaai2twn%26token%3D8522
+好消息贰频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgood2twn%26token%3D8522
+三立闽南频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsanlitaiwan%26token%3D8522
+三立戏剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsanlixijutwn%26token%3D8522
+三立综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsanlizhonghe%26token%3D8522
+三立都会频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsanlidouhui%26token%3D8522
+ELta影剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltayingjutwn%26token%3D8522
+ELta综合频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltazonghetwn%26token%3D8522
+ELTA体1频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltasporttwn%26token%3D8522
+ELTA体2频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltasport2twn%26token%3D8522
+ELTA体3频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltasport3twn%26token%3D8522
+Eleven一频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgolfchanneltwn%26token%3D8522
+博斯无限频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbosiunlimitedtwn%26token%3D8522
+博斯网球频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbositennistwn%26token%3D8522
+博斯运动壹玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbosisport1twn%26token%3D8522
+博斯运动贰玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbosisport2twn%26token%3D8522
+博斯高球壹玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbosigolf1twn%26token%3D8522
+博斯高球贰玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbosigolf2twn%26token%3D8522
+探索亚洲频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoverytwntwn%26token%3D8522
+国家地理频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeohdtwn%26token%3D8522
+野生动物频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeowildtwn%26token%3D8522
+动物星球频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Danimalplanettwn%26token%3D8522
+美食星球频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfoodplanettwn%26token%3D8522
+亚洲美食频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dafctwn%26token%3D8522
+亚洲旅游频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dasiatraveltwn%26token%3D8522
+亚洲TLC频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtlctwn%26token%3D8522
+EYE-旅游频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deyetvtraveltwn%26token%3D8522
+EYE-戏剧频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deyetvxijutwn%26token%3D8522
+MTv高清频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmtvhdtwn%26token%3D8522
+Discover频玛,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoverytwntw%26token%3D8522
 央卫频特,#genre#
 CCTV-01频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv1
 CCTV-02频特,http://ma-yi.k.vu/mayi/697456c165396.php?id=cctv2
@@ -3851,6 +4015,325 @@ Q版-三国粤39,https://vip.dytt-cine.com/20250715/39351b8e8d48c/index.m3u8
 变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/caeh264delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
 X战警黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+体育频玛,#genre#
+Astro Premier League 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp1%26token%3D8522
+Astro EPL 1 backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp1x%26token%3D8522
+Astro Premier League 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp2%26token%3D8522
+Astro Grandstand,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp3%26token%3D8522
+Astro Football,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp4%26token%3D8522
+Astro Sports Plus,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgosportsplus%26token%3D8522
+Astro Badminton 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgobadminton1%26token%3D8522
+Astro Badminton 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgobadminton2%26token%3D8522
+Astro W-Sports,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgoassp5%26token%3D8522
+Supersports 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAssp1%26token%3D8522
+Supersports 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAssp2%26token%3D8522
+Supersports 3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAssp3%26token%3D8522
+Supersports 4,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAssp4%26token%3D8522
+WWE,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWwe%26token%3D8522
+Fight Sports,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DFs%26token%3D8522
+NBA TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNba%26token%3D8522
+Astro Cricket,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAcricket%26token%3D8522
+Astro Golf,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAgolf%26token%3D8522
+Tnt Sports 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3D6fac0aaead%26token%3D8522
+TNT Sports 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dd9a76a79cc%26token%3D8522
+TNT Sports 3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3D5fea4d73db%26token%3D8522
+TNT Sports 4,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtntsport4%26token%3D8522
+Sony Ten 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dten1raj%26token%3D8522
+Sony Ten 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dten2raj%26token%3D8522
+Sony Ten 3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dten3raj%26token%3D8522
+SPOTV 1 HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgospotv%26token%3D8522
+SPO TV 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgospotv2%26token%3D8522
+Skysports F1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongf1%26token%3D8522
+Skysports Cricket,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongcricket%26token%3D8522
+Skysports EPL,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongepl%26token%3D8522
+Skysports Main Event,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongmain%26token%3D8522
+Skysports News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongnews%26token%3D8522
+Skysports Mix,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtiankongmix%26token%3D8522
+爱尔达体育2台,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltasport2twn%26token%3D8522
+爱尔达体育3台,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deltasport3twn%26token%3D8522
+Rugby Pass TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRugbypasstv%26token%3D8522
+RTM Sports HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRtmsport%26token%3D8522
+Arena,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DArena%26token%3D8522
+Arena 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DArena2%26token%3D8522
+BolaArena 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBolaarena1%26token%3D8522
+BolaArena 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBolaarena2%26token%3D8522
+Astro Beinsports 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstrobein1%26token%3D8522
+Astro Beinsports 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstrobein2%26token%3D8522
+Astro Beinsports 3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstrobein3%26token%3D8522
+电影频玛,#genre#
+Cinemax,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCinemax%26token%3D8522
+Animax,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAnimax%26token%3D8522
+Movies Now HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmoviesnowraj%26token%3D8522
+Star Movies HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dstarmoviesraj%26token%3D8522
+HBO Family,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHbofamily%26token%3D8522
+Hits,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHits%26token%3D8522
+Warner TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWarnerTV%26token%3D8522
+HBO HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHbo%26token%3D8522
+HBO Signature,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHbosignature%26token%3D8522
+HBO Hits,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHbohitshd%26token%3D8522
+SCM,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWeishimovie%26token%3D8522
+Dreamworks,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DDreamworks%26token%3D8522
+Thrill,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DThrill%26token%3D8522
+Hits Movie,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHitsmovie%26token%3D8522
+One,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DOne%26token%3D8522
+tvN Movie,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvnmovie%26token%3D8522
+Celestial Classic,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCelestial2%26token%3D8522
+Celestial Movies HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCelestialindo%26token%3D8522
+Axn HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAxn%26token%3D8522
+Paramount Network,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DParamountnetwork%26token%3D8522
+Astrol Kplus,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DKplus%26token%3D8522
+Rock Actions,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRockaction%26token%3D8522
+Rock Entertainment,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRockentertain%26token%3D8522
+纪录频玛,#genre#
+NatgeoHD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeohdtwn%26token%3D8522
+NatGeoWild HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeowildtwn%26token%3D8522
+AnimalPlanet,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Danimalplanettwn%26token%3D8522
+Discovery Asia,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoverytwntwn%26token%3D8522
+CI,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcitwn%26token%3D8522
+Discovery HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoveryhdtwn%26token%3D8522
+NatGeo HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNatgeo%26token%3D8522
+Fashion TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfashiontvtwn%26token%3D8522
+History,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHistory%26token%3D8522
+BBC Earth HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbcearthtwn%26token%3D8522
+BBC Earth Lifestyle,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbclifestyletwn%26token%3D8522
+NatGeo Wild HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNatgeowild%26token%3D8522
+Animal Planet (Eng),http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAnimalPlanet%26token%3D8522
+TLC,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTlc%26token%3D8522
+Foodnetwork Hd,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DFoodnetwork%26token%3D8522
+HGTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHGTV%26token%3D8522
+新闻频玛,#genre#
+Skynews,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dskynewstwn%26token%3D8522
+ABC News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dabcnewsglo%26token%3D8522
+CBS HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcbshdglo%26token%3D8522
+CBSN HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcbsnglo%26token%3D8522
+France 24,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfrance24twn%26token%3D8522
+DW (Deutsch),http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddwtwn%26token%3D8522
+NHK World,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkworldjapan%26token%3D8522
+Fox News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfoxnewstwn%26token%3D8522
+CNN International,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCnn%26token%3D8522
+CNN backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcnntwn%26token%3D8522
+CNBC,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcnbctwn%26token%3D8522
+CNA,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcna%26token%3D8522
+BBC World News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbcnewstwn%26token%3D8522
+BBC World News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBbcnews%26token%3D8522
+Bloomberg News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbloombergtwn%26token%3D8522
+Al-Jazeera,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Daljazeeratwn%26token%3D8522
+儿童频玛,#genre#
+Baby TV Eng,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBabytv%26token%3D8522
+CBeebies,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCbeebies%26token%3D8522
+Kids TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DKidsTV%26token%3D8522
+Momo TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmomo1twn%26token%3D8522
+Baby TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbabytvtwn%26token%3D8522
+MiaoMi,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMiaoMi%26token%3D8522
+Cartoon Network,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCn%26token%3D8522
+Nickelodeon,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNickelodeon%26token%3D8522
+Nick Jr,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNickjr%26token%3D8522
+新加频玛,#genre#
+Channel 5,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DChannel5HD%26token%3D8522
+Channel 8,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DChannel8HD%26token%3D8522
+Suria,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSuria%26token%3D8522
+Channel U,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DChannelU%26token%3D8522
+Vasantham,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DVasantham%26token%3D8522
+CNA backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcnatwn%26token%3D8522
+MeWatch Ch 5,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchch5%26token%3D8522
+MeWatch Ch 8,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchch8%26token%3D8522
+MeWatch Ch U,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchchU%26token%3D8522
+MeWatch Suria,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchSuria%26token%3D8522
+MeWatch Vasantham,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchVasantham%26token%3D8522
+MeWatch CNA,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMewatchcna%26token%3D8522
+马来频玛,#genre#
+TV1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV1%26token%3D8522
+TV1 backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV1backup%26token%3D8522
+TV2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV2%26token%3D8522
+TV3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV3%26token%3D8522
+TV3 SD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV3mega%26token%3D8522
+NTV7,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNTV7%26token%3D8522
+TV8,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV8%26token%3D8522
+TV9,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTV9%26token%3D8522
+Ria,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRia-0%26token%3D8522
+Ria-3,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRiabackup%26token%3D8522
+Al-Hijrah,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAlhijrah%26token%3D8522
+Al-Hijrah backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAlhijrahbackup%26token%3D8522
+Awani,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAwani%26token%3D8522
+Bernama,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBernama%26token%3D8522
+Prima,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DPrima-0%26token%3D8522
+Prima backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAAprima1%26token%3D8522
+Prima backup 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAAprima%26token%3D8522
+Ceria,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCeria%26token%3D8522
+Astro MTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstroMTV%26token%3D8522
+Mecca Live HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dquranmido%26token%3D8522
+Madinah HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsunnahmido%26token%3D8522
+Oasis,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DOasis%26token%3D8522
+Siar,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSiar%26token%3D8522
+Citra,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAAcitra%26token%3D8522
+Citra backup,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAAcitra1%26token%3D8522
+Sensasi,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSensasi%26token%3D8522
+Aura,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAura%26token%3D8522
+Rania,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRania%26token%3D8522
+KBS World,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DKBS%26token%3D8522
+Boo,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBoo%26token%3D8522
+Awesome TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DDsangat%26token%3D8522
+Astro Sonypix,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAsonypix%26token%3D8522
+Sony HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSetOne%26token%3D8522
+TvN,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTVN%26token%3D8522
+AEC,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAEC%26token%3D8522
+华丽台 HD （Wah Lai Toi）,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWlt%26token%3D8522
+欢喜台 HD （Hua Hee Tai）,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DHuahee%26token%3D8522
+Astro QJ,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DQuanjia%26token%3D8522
+TVB Jade,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbjade%26token%3D8522
+TVB Asia,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbasia%26token%3D8522
+TVB Entertainment,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbentertainment%26token%3D8522
+TVB Classic,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvbclassic%26token%3D8522
+AOD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAodhd%26token%3D8522
+TVB 星河台 Xing He,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DXinhe%26token%3D8522
+爱奇艺 iQiyi,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DQiyi%26token%3D8522
+Goshop,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DGoshop%26token%3D8522
+Celestial Movies HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DCelestial%26token%3D8522
+Astro LOL,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstrolol%26token%3D8522
+Astro Rusi,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRusi%26token%3D8522
+WION,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DWion%26token%3D8522
+RTM Asean,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRtmasean%26token%3D8522
+印尼频玛,#genre#
+TVRI National,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTVRI%26token%3D8522
+RCTI,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRcti%26token%3D8522
+Kompass TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DKompass%26token%3D8522
+Berita Satu,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBeritaSatueko%26token%3D8522
+Indosiar HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DIndosiar%26token%3D8522
+AnTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAntv%26token%3D8522
+MNC TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMnctv%26token%3D8522
+Trans 7,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTrans7eko%26token%3D8522
+Transtv,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTranstv%26token%3D8522
+JTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DJTVeko%26token%3D8522
+Metro TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmetrotveko%26token%3D8522
+SCTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSCTV%26token%3D8522
+Tvone,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTvone%26token%3D8522
+TVMU,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTVMUeko%26token%3D8522
+GTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DGtv%26token%3D8522
+RTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DRtv%26token%3D8522
+Jak TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DJakTV%26token%3D8522
+iNews TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DInewstv%26token%3D8522
+Daai TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DDaaiTV%26token%3D8522
+Net TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNetTV%26token%3D8522
+EWTN,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DEwtn%26token%3D8522
+AlQuran AlKareem,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAlQuran%26token%3D8522
+Tawaf TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DTawafTV%26token%3D8522
+Vision Prime,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DVisionPrime%26token%3D8522
+Muslim TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMuslimTV%26token%3D8522
+Music TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMusicTV%26token%3D8522
+Lifestyle&amp;Fashion,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DLifestyle%26token%3D8522
+Entertain,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DEntertain%26token%3D8522
+印度频玛,#genre#
+Sun TV HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSuntv%26token%3D8522
+Star Vijay,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DStarvijay%26token%3D8522
+Colors Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DColorstam%26token%3D8522
+Sun Music,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSunmusic%26token%3D8522
+Astro Sunlife,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DSunlife%26token%3D8522
+Astro Vaanavil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DVaanavil%26token%3D8522
+Zee Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeetamil%26token%3D8522
+Zee Business,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeebusiness%26token%3D8522
+News 18 Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnews18tamilraj%26token%3D8522
+Adithya,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAdithya%26token%3D8522
+Makkal TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DMakkaltv%26token%3D8522
+Zee Action,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeeaction%26token%3D8522
+Astro KTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DAstroktv%26token%3D8522
+Zee TV HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeetvhd%26token%3D8522
+Zee Cinema HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeecinemahd%26token%3D8522
+Color HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DColorhd%26token%3D8522
+Starplus HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DStarplushd%26token%3D8522
+Picture HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DNpicture%26token%3D8522
+Zee News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DZeenews%26token%3D8522
+Asianet,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dasianetraj%26token%3D8522
+Asianet News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dasianetnewsraj%26token%3D8522
+Discovery World Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoveryworldtamraj%26token%3D8522
+History Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dhistorytamraj%26token%3D8522
+NatGeo Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeotamilraj%26token%3D8522
+Natgeo Wild Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnatgeowildtamilraj%26token%3D8522
+Discovery Kids Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoverykidtamilraj%26token%3D8522
+Discovery Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ddiscoverytamilraj%26token%3D8522
+Sony Yay Tamil,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsonyyaytamraj%26token%3D8522
+Sun TV India,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsuntvraj%26token%3D8522
+Starmaa HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dstarmaaraj%26token%3D8522
+Starmaa Movies HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dstarmaamoviesraj%26token%3D8522
+Bollyone,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DBollyone%26token%3D8522
+Vijay Super,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvijaysuperraj%26token%3D8522
+Vellithirai,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3DVellithirai%26token%3D8522
+泰国频玛,#genre#
+Channel 3 Thailand,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dch3pat%26token%3D8522
+Channel 5 Thailand,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dch5pat%26token%3D8522
+Channel 7 Thailand,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dch7pat%26token%3D8522
+MCOT HD Thailand-1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmcotpat%26token%3D8522
+PPTV Thailand1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dpptvpat%26token%3D8522
+Thai Thai,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dthaithaipat%26token%3D8522
+Amarin,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Damarinpat%26token%3D8522
+Ch 8,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dch8pat%26token%3D8522
+GmmOne,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgmmonepat%26token%3D8522
+Mono,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmonopat%26token%3D8522
+Thairath,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dthairathpat%26token%3D8522
+tpbs,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtpbspat%26token%3D8522
+Workpoint,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dworkpointpat%26token%3D8522
+Gmm Channel,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dgmmchannelpat%26token%3D8522
+Nation,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnationpat%26token%3D8522
+Tnn24,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtnn24pat%26token%3D8522
+Nbt,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnbtpat%26token%3D8522
+New,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnewpat%26token%3D8522
+TPTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtptvpat%26token%3D8522
+英国频玛,#genre#
+BBC 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbc1antik%26token%3D8522
+BBC 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbc2antik%26token%3D8522
+CBBC,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcbbcantik%26token%3D8522
+More4,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dmore4antik%26token%3D8522
+Freesports,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dfreesportsantik%26token%3D8522
+Pick TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dpicktvantik%26token%3D8522
+itv 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ditv1antik%26token%3D8522
+itv 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Ditv2antik%26token%3D8522
+Euronews,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Deuronewsantik%26token%3D8522
+Channel 4,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dchannel4antik%26token%3D8522
+BBC World News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbbcworldnewsantik%26token%3D8522
+越南频玛,#genre#
+ANTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietantv%26token%3D8522
+VTV 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietvtv1%26token%3D8522
+VTV 7,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietvtv7%26token%3D8522
+HTV 7,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dviethtv7%26token%3D8522
+HTV 9,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dviethtv9%26token%3D8522
+BPTV 2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietbptv2%26token%3D8522
+BRT HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietbrt%26token%3D8522
+Ca Mau TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietcamautv%26token%3D8522
+Danang TV1 HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietdanangtv1%26token%3D8522
+Danang TV2 HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietdanangtv2%26token%3D8522
+HBTV HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dviethbtv%26token%3D8522
+PTTH 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dvietptth1%26token%3D8522
+韩国频玛,#genre#
+Arirang HD,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Darirangkorea%26token%3D8522
+Yonhap News,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dyonhapnewskorea%26token%3D8522
+CBS,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcbskorea%26token%3D8522
+EBS 1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Debs1korea%26token%3D8522
+EBS2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Debs2korea%26token%3D8522
+EBS Plus2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Debsplus2korea%26token%3D8522
+SBS Plus,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dsbspluskorea%26token%3D8522
+YTN,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dytnkorea%26token%3D8522
+KBS World 24,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dkbsworld24korea%26token%3D8522
+YTN Science,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dytnsciencekorea%26token%3D8522
+YTN Korean,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dytnkoreankorea%26token%3D8522
+YTN DMB,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dytndmbkorea%26token%3D8522
+Apps TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dappongooglekorea%26token%3D8522
+All the Kpop,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dallthekpopkorea%26token%3D8522
+J the Kpop,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Djthekpopkorea%26token%3D8522
+EBS Kids,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Debskidskorea%26token%3D8522
+CGNTV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcgntvkorea%26token%3D8522
+日本频玛,#genre#
+NHK-総合-2,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkgjapan%26token%3D8522
+NHK-E,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkejapan%26token%3D8522
+テレビ朝日 Asahi TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dasahitvjapan%26token%3D8522
+JET 綜合,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Djettvjapan%26token%3D8522
+テレビ東京 Tokyo TV,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtokyotvjapan%26token%3D8522
+TOKYOMX,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dtokyomxjapan%26token%3D8522
+NHKBS1,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkbs1japan%26token%3D8522
+NHKBSプレミア Premium,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkpremiumjapan%26token%3D8522
+BSジャパン 181,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbs181japan%26token%3D8522
+BSフジ BS Fuji,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbsfujijapan%26token%3D8522
+CNA Japan,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dcnajapan%26token%3D8522
+BS-TBS,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dbstbsjapan%26token%3D8522
+NHK Oaska,http://156.238.248.80:5008/proxy?url=http%3A//156.238.248.80%3A5050/smart.php%3Fid%3Dnhkosakajapan%26token%3D8522
 体育频特,#genre#
 Astro Premier League 1,http://ma-yi.k.vu/mayi/697456c165396.php?id=goassp1
 Astro EPL 1 backup,http://ma-yi.k.vu/mayi/697456c165396.php?id=goassp1x
@@ -4176,7 +4659,7 @@ NHK Oaska,http://ma-yi.k.vu/mayi/697456c165396.php?id=nhkosakajapan
 (贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 (卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
 注意事项,#genre#
-20260125035626仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20260126035914仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 猫TV影视,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ➡️白嫖软件⬅️,http://rihou.cc:555/tv/[mv]白嫖软件
@@ -4188,23 +4671,7 @@ NHK Oaska,http://ma-yi.k.vu/mayi/697456c165396.php?id=nhkosakajapan
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
 NBA赛评,#genre#
-01-25⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-09:30湖人🆚独行侠,http://rihou.cc:555/tv/v
-国🔊25咪述旁,http://rihou.cc:555/tv/25NBA咪述旁
-国🔊25腾述旁,http://rihou.cc:555/tv/25NBA腾述旁
-10:30热火🆚爵士,http://rihou.cc:555/tv/v
-国🔊25咪旁旁,http://rihou.cc:555/tv/25NBA咪旁旁
-国🔊25腾旁旁,http://rihou.cc:555/tv/25NBA腾旁旁
 01-26⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-04:00国王🆚活塞,http://rihou.cc:555/tv/v
-国🔊26咪评述,http://rihou.cc:555/tv/26NBA咪评述
-国🔊26腾评述,http://rihou.cc:555/tv/26NBA腾评述
-04:30掘金🆚灰熊,http://rihou.cc:555/tv/v
-国🔊26咪述评,http://rihou.cc:555/tv/26NBA咪述评
-国🔊26腾述评,http://rihou.cc:555/tv/26NBA腾述评
-08:00雄鹿🆚独行侠,http://rihou.cc:555/tv/v
-国🔊26咪评评,http://rihou.cc:555/tv/26NBA咪评评
-国🔊26腾评评,http://rihou.cc:555/tv/26NBA腾评评
 08:00鹈鹕🆚马刺,http://rihou.cc:555/tv/v
 国🔊26咪述述,http://rihou.cc:555/tv/26NBA咪述述
 国🔊26腾述述,http://rihou.cc:555/tv/26NBA腾述述
@@ -4239,32 +4706,7 @@ NBA赛评,#genre#
 10:30勇士🆚木狼,http://rihou.cc:555/tv/v
 国🔊27咪旁旁,http://rihou.cc:555/tv/27NBA咪旁旁
 国🔊27腾旁旁,http://rihou.cc:555/tv/27NBA腾旁旁
-桂超赛评,#genre#
-01-25⬇️广西县级足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-14:30北海市海城区队🆚河池市金城江区队,http://rihou.cc:555/tv/v
-国🔊25咪述述,http://rihou.cc:555/tv/25桂超咪述述
-14:30桂林市七星区队🆚柳州市融水苗族自治县队,http://rihou.cc:555/tv/v
-国🔊25咪旁述,http://rihou.cc:555/tv/25桂超咪旁述
 CBA赛评,#genre#
-01-25⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35广州朗肽🆚青岛崂山,http://rihou.cc:555/tv/v
-粤🔊丁伟杰述,http://rihou.cc:555/tv/25CBA丁伟杰
-粤🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-粤🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-粤🔊广东体育,http://rihou.cc:555/tv/[Cg]广东体育
-国🔊25抖评述,http://rihou.cc:555/tv/25CBA抖评述
-19:35宁波町渥🆚江苏肯帝,http://rihou.cc:555/tv/v
-国🔊25抖述评,http://rihou.cc:555/tv/25CBA抖述评
-19:35福建晋江🆚四川丰谷,http://rihou.cc:555/tv/v
-国🔊25抖评评,http://rihou.cc:555/tv/25CBA抖评评
-19:35山东高速🆚浙江方兴,http://rihou.cc:555/tv/v
-国🔊25抖述述,http://rihou.cc:555/tv/25CBA抖述述
-19:35深圳马可🆚南京天蓝,http://rihou.cc:555/tv/v
-国🔊25抖旁述,http://rihou.cc:555/tv/25CBA抖旁述
-19:35浙江稠州🆚上海久事,http://rihou.cc:555/tv/v
-国🔊25抖述旁,http://rihou.cc:555/tv/25CBA抖述旁
-20:00新疆伊力🆚辽宁本钢,http://rihou.cc:555/tv/v
-国🔊25抖旁旁,http://rihou.cc:555/tv/25CBA抖旁旁
 01-26⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广东阳光🆚天津行者,http://rihou.cc:555/tv/v
 粤'🔊丁伟杰述,http://rihou.cc:555/tv/26CBA丁伟杰
@@ -4276,10 +4718,23 @@ CBA赛评,#genre#
 国🔊26抖述评,http://rihou.cc:555/tv/26CBA抖述评
 19:35山西汾酒🆚北京北汽,http://rihou.cc:555/tv/v
 国🔊26抖评评,http://rihou.cc:555/tv/26CBA抖评评
+01-27⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:35广州朗肽🆚上海久事,http://rihou.cc:555/tv/v
+粤'🔊丁伟杰述,http://rihou.cc:555/tv/27CBA丁伟杰
+国🔊27抖评述,http://rihou.cc:555/tv/27CBA抖评述
+19:35南京天蓝🆚新疆伊力,http://rihou.cc:555/tv/v
+国🔊27抖述评,http://rihou.cc:555/tv/27CBA抖述评
+19:35青岛崂山🆚浙江方兴,http://rihou.cc:555/tv/v
+国🔊27抖评评,http://rihou.cc:555/tv/27CBA抖评评
+19:35山东高速🆚宁波町渥,http://rihou.cc:555/tv/v
+国🔊27抖述述,http://rihou.cc:555/tv/27CBA抖述述
+19:35深圳马可🆚福建晋江,http://rihou.cc:555/tv/v
+国🔊27抖旁述,http://rihou.cc:555/tv/27CBA抖旁述
+19:35四川丰谷🆚辽宁本钢,http://rihou.cc:555/tv/v
+国🔊27抖述旁,http://rihou.cc:555/tv/27CBA抖述旁
+19:35浙江稠州🆚江苏肯帝,http://rihou.cc:555/tv/v
+国🔊27抖旁旁,http://rihou.cc:555/tv/27CBA抖旁旁
 WCBA赛,#genre#
-01-25⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:30上海浦发银行🆚四川蜀道远达,http://rihou.cc:555/tv/v
-国🔊25咪评述,http://rihou.cc:555/tv/25WCBA咪评述
 01-27⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30山西竹叶青酒🆚东莞新彤盛,http://rihou.cc:555/tv/v
 国🔊27咪评述,http://rihou.cc:555/tv/27WCBA咪评述
@@ -4292,99 +4747,28 @@ WCBA赛,#genre#
 19:30山东赤水河酒🆚浙江稠州银行,http://rihou.cc:555/tv/v
 国🔊27咪旁述,http://rihou.cc:555/tv/27WCBA咪旁述
 意甲赛评,#genre#
-01-25⬇️意甲第22轮⬇️⚽📡,http://rihou.cc:555/tv/t
-19:30莎索罗🆚克雷莫纳,http://rihou.cc:555/tv/v
-国🔊刘腾评述,http://rihou.cc:555/tv/25意刘腾评述
-22:00阿特兰大🆚帕尔马,http://rihou.cc:555/tv/v
-国🔊咪咕评述,http://rihou.cc:555/tv/25意咪咕评述
-22:00热拿亚🆚博洛尼亚,http://rihou.cc:555/tv/v
-国🔊刘焕评述,http://rihou.cc:555/tv/25意刘焕评述
-01-26⬇️意甲第22轮⬇️⚽📡,http://rihou.cc:555/tv/t
-01:00祖云达斯🆚拿玻里,http://rihou.cc:555/tv/v
-国🔊咪咕述评,http://rihou.cc:555/tv/26意咪咕述评
-03:45罗马🆚AC米兰,http://rihou.cc:555/tv/v
-国🔊石庆圣评,http://rihou.cc:555/tv/26意石庆圣评
 01-27⬇️意甲第22轮⬇️⚽📡,http://rihou.cc:555/tv/t
 03:45维罗纳🆚乌甸尼斯,http://rihou.cc:555/tv/v
 国🔊咪咕评评,http://rihou.cc:555/tv/27意咪咕评评
+英超粤评,#genre#
+01-27⬇️英超第23轮⬇️⚽📡,http://rihou.cc:555/tv/t
+04:00爱华顿🆚列斯联,http://rihou.cc:555/tv/v
+国🔊咪咕评述,http://rihou.cc:555/tv/27英咪咕评述
 西甲赛评,#genre#
-01-25⬇️西甲第21轮⬇️⚽📡,http://rihou.cc:555/tv/t
-21:00马体会🆚马略卡,http://rihou.cc:555/tv/v
-国🔊咪咕评述,http://rihou.cc:555/tv/25西咪咕评述
-23:15巴塞🆚奥维耶多,http://rihou.cc:555/tv/v
-国🔊张昊泽评,http://rihou.cc:555/tv/25西张昊泽评
-01-26⬇️西甲第21轮⬇️⚽📡,http://rihou.cc:555/tv/t
-01:30皇家苏斯达🆚塞尔塔,http://rihou.cc:555/tv/v
-国🔊咪咕述评,http://rihou.cc:555/tv/26西咪咕述评
-04:00阿拉维斯🆚贝迪斯,http://rihou.cc:555/tv/v
-国🔊兰子非评,http://rihou.cc:555/tv/26西兰子非评
 01-27⬇️西甲第21轮⬇️⚽📡,http://rihou.cc:555/tv/t
 04:00赫罗纳🆚加泰,http://rihou.cc:555/tv/v
 国🔊咪咕评评,http://rihou.cc:555/tv/27西咪咕评评
-英超粤评,#genre#
-01-25⬇️英超第23轮⬇️⚽📡,http://rihou.cc:555/tv/t
-22:00车路士🆚水晶宫,http://rihou.cc:555/tv/v
-国🔊黄健翔评,http://rihou.cc:555/tv/25英黄健翔评
-22:00屈福特🆚诺定汉,http://rihou.cc:555/tv/v
-国🔊黄航评述,http://rihou.cc:555/tv/25英黄航评述
-22:00纽卡素🆚维拉,http://rihou.cc:555/tv/v
-国🔊咪咕评述,http://rihou.cc:555/tv/25英咪咕评述
-01-26⬇️英超第23轮⬇️⚽📡,http://rihou.cc:555/tv/t
-00:30阿仙奴🆚曼联,http://rihou.cc:555/tv/v
-国🔊咪咕述评,http://rihou.cc:555/tv/26英咪咕述评
-01-27⬇️英超第23轮⬇️⚽📡,http://rihou.cc:555/tv/t
-04:00爱华顿🆚列斯联,http://rihou.cc:555/tv/v
-国🔊咪咕评评,http://rihou.cc:555/tv/27英咪咕评评
-法甲赛评,#genre#
-01-25⬇️法甲第19轮⬇️⚽📡,http://rihou.cc:555/tv/t
-22:00南特🆚尼斯,http://rihou.cc:555/tv/v
-国🔊咪咕评述,http://rihou.cc:555/tv/25法咪咕评述
-01-26⬇️法甲第19轮⬇️⚽📡,http://rihou.cc:555/tv/t
-00:15布雷斯特🆚图卢兹,http://rihou.cc:555/tv/v
-国🔊李永熙评,http://rihou.cc:555/tv/26法李永熙评
-00:15梅斯🆚里昂,http://rihou.cc:555/tv/v
-国🔊盛斌评述,http://rihou.cc:555/tv/26法盛斌评述
-00:15巴黎FC🆚昂热,http://rihou.cc:555/tv/v
-国🔊张天翼评,http://rihou.cc:555/tv/26法张天翼评
-03:45里尔🆚斯特拉斯堡,http://rihou.cc:555/tv/v
-国🔊乔迁评述,http://rihou.cc:555/tv/26法乔迁评述
-德甲赛评,#genre#
-01-25⬇️德甲第19轮⬇️⚽📡,http://rihou.cc:555/tv/t
-22:30慕逊加柏🆚史特加,http://rihou.cc:555/tv/v
-国🔊王子睿评,http://rihou.cc:555/tv/25德王子睿评
-01-26⬇️德甲第19轮⬇️⚽📡,http://rihou.cc:555/tv/t
-00:30费雷堡🆚科隆,http://rihou.cc:555/tv/v
-国🔊吴子越评,http://rihou.cc:555/tv/26德吴子越评
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛25
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛25
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛25
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛25
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛25
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛25
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛25
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛25
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛25
-赛事Now,#genre#
-Now体育壹台,http://rihou.cc:555/tv/Now体育壹台
-Now体育贰台,http://rihou.cc:555/tv/Now体育贰台
-Now体育叁台,http://rihou.cc:555/tv/Now体育叁台
-Now体育肆台,http://rihou.cc:555/tv/Now体育肆台
-Now体育伍台,http://rihou.cc:555/tv/Now体育伍台
-Now体育陆台,http://rihou.cc:555/tv/Now体育陆台
-Now体育柒台,http://rihou.cc:555/tv/Now体育柒台
-Now英超壹台,http://rihou.cc:555/tv/Now英超壹台
-Now英超贰台,http://rihou.cc:555/tv/Now英超贰台
-Now英超叁台,http://rihou.cc:555/tv/Now英超叁台
-Now英超肆台,http://rihou.cc:555/tv/Now英超肆台
-Now英超伍台,http://rihou.cc:555/tv/Now英超伍台
-Now英超陆台,http://rihou.cc:555/tv/Now英超陆台
-Now641NBA,http://rihou.cc:555/tv/Now641NBA
-Bein体育壹台,http://rihou.cc:555/tv/Bein体育壹台
-Bein体育贰台,http://rihou.cc:555/tv/Bein体育贰台
-Bein体育叁台,http://rihou.cc:555/tv/Bein体育叁台
-wwe体育格斗,http://rihou.cc:555/tv/wwe体育格斗
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛26
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛26
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛26
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛26
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛26
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛26
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛26
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛26
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛26
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=2189c71d2189c71d2189c71d2189c71d
@@ -4957,7 +5341,7 @@ WWE格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 网页音乐,#genre#
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖25
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖26
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
@@ -5107,8 +5491,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 太平年第04集,http://cjx.999315.xyz/yzzy/20260123/120947f7ed8ec/index.m3u8
 太平年第05集,http://cjx.999315.xyz/yzzy/20260124/123829a1d8e7d/index.m3u8
 太平年第06集,http://cjx.999315.xyz/yzzy/20260124/1238347e03d48/index.m3u8
-太平年第07集
-太平年第08集
+太平年第07集,http://cjx.999315.xyz/yzzy/20260125/124566a9edcb7/index.m3u8
+太平年第08集,http://cjx.999315.xyz/yzzy/20260125/12457842efe84/index.m3u8
 太平年第09集
 太平年第10集
 太平年第11集
@@ -5159,8 +5543,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 突然的喜欢07,http://cjx.999315.xyz/yzzy/20260123/12095f7eb4129/index.m3u8
 突然的喜欢08,http://cjx.999315.xyz/yzzy/20260124/123713b153deb/index.m3u8
 突然的喜欢09,http://cjx.999315.xyz/yzzy/20260124/1547253a738be/index.m3u8
-突然的喜欢10
-突然的喜欢11
+突然的喜欢10,http://cjx.999315.xyz/yzzy/20260125/61066933b564/index.m3u8
+突然的喜欢11,http://cjx.999315.xyz/yzzy/20260125/61105460b9ea/index.m3u8
 突然的喜欢12
 突然的喜欢13
 突然的喜欢14
