@@ -6,7 +6,7 @@ name: update1
 on:
   schedule:
     # 每天 UTC 时间 03:00 运行
-    - cron: '0 3 * * *'
+  #   - cron: '0 3 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
