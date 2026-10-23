@@ -5,7 +5,7 @@ name: sync myb
 on:
   schedule:
     # 每天 UTC 时间 01:00 运行
-    - cron: '0 1 * * *'
+   #  - cron: '0 1 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
